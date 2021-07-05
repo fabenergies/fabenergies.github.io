@@ -38,15 +38,15 @@ body,h1,h2,h3,h4,h5,h6 {
 
 .intro-header {
   align-items: center;
-  background: url(../img/fabenergies_bandeau.png) no-repeat center center;
+  background: url(../img/banniere-fabenergies-home.png) no-repeat center center;
   background-size: cover;
   color: #f8f8f8;
   display: flex;
   font-size: 20px;
   min-height: 90vh;
   /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-  padding-bottom: 60px;
-  padding-top: 60px;
+  padding-bottom: 40px;
+  padding-top: 40px;
   text-align: center;
 }
 
